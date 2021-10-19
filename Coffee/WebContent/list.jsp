@@ -8,6 +8,6 @@
 </head>
 <body>
 
-	// 깃 허브 commit 하기
+	// 깃 허브 commit 하기!!
 </body>
 </html>
