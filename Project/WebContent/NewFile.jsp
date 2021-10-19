@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	// 깃 허브 commit 하기!!2123123121212
+	// commit 하기
 </body>
 </html>
